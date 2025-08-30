@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ISBT Bus Terminal",
+    "description": "Interstate Bus Terminal",
+    "lat": 23.0258,
+    "lag": 72.5873
+  },
+  {
+    "name" : "Indore Junction",
+    "description" : "Main Railway Station of City",
+    "lat": 23.05,
+    "lag": 72.60
+  }
+]
